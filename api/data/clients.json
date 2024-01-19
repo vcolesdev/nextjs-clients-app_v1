@@ -1,0 +1,49 @@
+{
+  "clients": [
+    {
+      "firstName": "Melrose",
+      "lastName": "Berry",
+      "email": "m.berry@examplemail.com",
+      "phone": "",
+      "status": true,
+      "comments": "This is a priority client.",
+      "id": 1
+    },
+    {
+      "firstName": "Asher",
+      "lastName": "Promise",
+      "email": "promise_asher92@examplemail.com",
+      "phone": "",
+      "status": false,
+      "comments": "Meeting every two weeks until completion.",
+      "id": 2
+    },
+    {
+      "firstName": "Marieta",
+      "lastName": "Davila",
+      "email": "mdavila@examplemail.com",
+      "phone": "",
+      "status": false,
+      "comments": "Some comments",
+      "id": 3
+    },
+    {
+      "firstName": "Raspberry",
+      "lastName": "Soda",
+      "email": "mix.soda@examplemail.com",
+      "phone": "",
+      "comments": "<h3>This is an H3 heading</h3>\n<p>This is an updated comment for testing \"View Comments\" with.</p>\n<p><strong>bold text</strong></p>\n<p><strong><em>italicized text</em></strong></p>\n",
+      "id": 4,
+      "status": true
+    },
+    {
+      "firstName": "Vanessa",
+      "lastName": "Coles",
+      "email": "email@examplemail.com",
+      "phone": "6195557777",
+      "status": true,
+      "comments": "<p>This client looks and sounds familiar....</p>\n",
+      "id": 5
+    }
+  ]
+}

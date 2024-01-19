@@ -1,0 +1,12 @@
+/* globals.scss */
+
+// Vendor CSS
+@import "vendor/tailwind";
+@import "vendor/react-toggle";
+
+// Globals
+@import "base/settings";
+@import "base/typography";
+
+// Main
+@import "main";
